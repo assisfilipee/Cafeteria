@@ -1,5 +1,10 @@
 # ☕ Cafena — Site Institucional para Cafeteria
 
+[![Preview do site Cafena](./site.png)](https://assisfilipee.github.io/Cafeteria/)
+
+🔗 **Demo online:**  
+https://assisfilipee.github.io/Cafeteria/
+
 Projeto de site institucional desenvolvido para uma cafeteria fictícia, com foco em **experiência do usuário**, **organização visual** e **boas práticas de desenvolvimento Front-end**.  
 Este projeto faz parte do meu portfólio profissional e tem como objetivo demonstrar habilidades técnicas em **HTML5** e **CSS3**, simulando um cenário real de negócio.
 
